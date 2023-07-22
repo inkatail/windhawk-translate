@@ -297,4 +297,4 @@ app:
     exit: "Wyjdź z trybu edytowania"
     exitConfirmation: "Zmiany wprowadzone od ostatniej udanej kompilacji zostaną utracone"
     exitButtonOk: "Wyjdź"
-    exitButtonCancel: "Zostań"
+    exitButtonCancel: "Anuluj"
